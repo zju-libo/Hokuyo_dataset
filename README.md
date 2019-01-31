@@ -7,6 +7,7 @@ this dataset is collected at workshop in Zheheng Science and Technology Park in 
 :----|:----|
 | Model | Hokuyo UTM30LX-EW |
 | Scan Frequency | 25Hz |
+| Field of View  | 270 deg |
 
 ### Dataset urglog
 this is a .mat file, which could be read by MATLAB.
